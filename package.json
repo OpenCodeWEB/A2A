@@ -1,0 +1,14 @@
+{
+  "name": "@opencodeweb/a2a",
+  "version": "1.0.0",
+  "description": "OpenCodeWEB A2A — Agent-to-Agent protocol (Google A2A JSON-RPC) for the sovereign ecosystem. Free, MIT.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/*.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
